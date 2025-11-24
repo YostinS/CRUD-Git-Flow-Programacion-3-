@@ -1,0 +1,15 @@
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.AssemblyInfoInputs.cache
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.AssemblyInfo.cs
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.csproj.CoreCompileInputs.cache
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.sourcelink.json
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\bin\Debug\net8.0\CRUD Ferreteria.exe
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\bin\Debug\net8.0\CRUD Ferreteria.deps.json
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\bin\Debug\net8.0\CRUD Ferreteria.runtimeconfig.json
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\bin\Debug\net8.0\CRUD Ferreteria.dll
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\bin\Debug\net8.0\CRUD Ferreteria.pdb
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.dll
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\refint\CRUD Ferreteria.dll
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.pdb
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\CRUD Ferreteria.genruntimeconfig.cache
+C:\Programacion Itla\CRUD-Git-Flow-Programacion-3-\CRUD Ferreteria\CRUD Ferreteria\obj\Debug\net8.0\ref\CRUD Ferreteria.dll
